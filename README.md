@@ -83,9 +83,10 @@ Copy or Rename `config.json.example` to `config.json` and fill out the values:
 - Help (/help)
 - Command Handler from [discordjs.guide](https://discordjs.guide/)
 - Media Controls via Reactions
+```
 
 ![reactions](https://i.imgur.com/0hdUX1C.png)
-
+```
 ## 🌎 Locales
 
 Currently available locales are:
@@ -117,7 +118,8 @@ Currently available locales are:
 - Vietnamese (vi)
 - Check [Contributing](#-contributing) if you wish to help add more languages!
 - For languages please use [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) two letter format
-
+```
+```
 ## 🤝 Contributing
 
 1. [Fork the repository](https://github.com/TanmusHil/Tanmussy/fork)
@@ -127,3 +129,4 @@ Currently available locales are:
 5. Commit your changes: `cz` OR `npm run commit` do not use `git commit`
 6. Push to the branch: `git push origin my-new-feature`
 7. Submit a pull request
+```
