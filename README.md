@@ -2,7 +2,7 @@
 ![Docker build](https://github.com/eritislami/evobot/actions/workflows/docker.yml/badge.svg)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
-![logo](https://hotpotmedia.s3.us-east-2.amazonaws.com/8-SPBzvi6agSXJGmJ.png?nc=1)
+![logo](https://imgur.com/y3qa5Qh)
 
 # 🤖 Mozart Music (Discord Music Bot)
 
