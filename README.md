@@ -85,7 +85,7 @@ Copy or Rename `config.json.example` to `config.json` and fill out the values:
 - Media Controls via Reactions
 ```
 
-![reactions](https://i.imgur.com/0hdUX1C.png)
+![reactions](https://imgur.com/a/zU9biJh.png)
 ```
 ## 🌎 Locales
 
