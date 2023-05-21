@@ -47,23 +47,23 @@ Copy or Rename `config.json.example` to `config.json` and fill out the values:
 
 - 🎶 Play music from YouTube via url
 
-`/play https://www.youtube.com/watch?v=GLvohMXgcBo`
+`/play https://www.youtube.com/watch?v=INhfrEsqib8`
 
 - 🔎 Play music from YouTube via search query
 
-`/play under the bridge red hot chili peppers`
+`/play night dancer nightcore`
 
 - 🔎 Search and select music to play
 
-`/search Pearl Jam`
+`/search night dancer`
 
 - 📃 Play youtube playlists via url
 
-`/playlist https://www.youtube.com/watch?v=YlUKcNNmywk&list=PL5RNCwK3GIO13SR_o57bGJCEmqFAwq82c`
+`/playlist https://www.youtube.com/watch?v=j5-yKhDd64s&list=PL7E436F1EC114B001`
 
 - 🔎 Play youtube playlists via search query
 
-`/playlist linkin park meteora`
+`/playlist eminem best playlist`
 
 - Now Playing (/np)
 - Queue system (/queue)
